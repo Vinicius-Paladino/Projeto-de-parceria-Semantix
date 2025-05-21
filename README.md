@@ -43,7 +43,7 @@ O código da análise exploratória está disponível em:
 - Regiões como DF e MT lideram em consumo; outras precisam de mix adaptado.
 - O modelo atual de previsão não considera sazonalidade e regionalização.
 
-Mais detalhes no relatório em [`Relatorio_EDA_Otimizacao_Estoques.txt`](Relatorio_EDA_Otimizacao_Estoques.txt)
+Mais detalhes no relatório em `Relatorio EDA Otimização.pdf`.
 
 ---
 
@@ -55,26 +55,7 @@ Um painel foi desenvolvido no Looker Studio com 3 abas:
 2. **Clima no Centro-Oeste**
 3. **Correlação Clima x Comportamento de Busca**
 
-🔗 Link para o dashboard: [**INSERIR AQUI O LINK DO LOOKER STUDIO**]
-
----
-
-## 🗂️ Estrutura do Repositório
-
-```
-├── data/
-│   ├── compras_roupas_online_2024.csv
-│   ├── clima_centro_oeste_2024.csv
-│   ├── fontes_dados_detalhadas.csv
-│
-├── scripts/
-│   └── EDA_Otimizacao_Estoques.ipynb
-│
-├── docs/
-│   └── Relatorio_EDA_Otimizacao_Estoques.txt
-│
-├── README.md
-```
+🔗 Link para o dashboard: https://lookerstudio.google.com/reporting/db8ea479-8a85-400b-a7fe-4b7cfa040c82
 
 ---
 
