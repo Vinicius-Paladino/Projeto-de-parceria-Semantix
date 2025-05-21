@@ -43,7 +43,7 @@ O código da análise exploratória está disponível em:
 - Regiões como DF e MT lideram em consumo; outras precisam de mix adaptado.
 - O modelo atual de previsão não considera sazonalidade e regionalização.
 
-Mais detalhes no relatório em: [`Relatorio EDA Otimização.pdf`](Relatorio EDA Otimização.pdf)
+Mais detalhes no relatório em: Relatorio EDA Otimização.pdf
 
 ---
 
